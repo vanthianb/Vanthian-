@@ -1,2 +1,2 @@
 # Vanthian-
-An amature insights on data
+An amatures insights on data
